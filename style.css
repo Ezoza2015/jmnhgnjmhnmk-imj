@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-green{
+    background-color: #70ff7e;
+    width: 1440px;
+    height: 1024px;
+    margin: 0 auto;
+    padding-top: 31px;
+}
+
+
+.title{
+    background-color: blue;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 20px;
+}
+
+
+.svetofor{
+    background-color: black;
+    width: 451px;
+    height: 777px;
+    margin: 20px auto;
+    padding-top: 69px;
+    border-radius: 20px;
+}
+
+.red , .yellow ,.green {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin: 0 auto;
+    border: 5px solid  #28e145;
+}
+
+
+
+.yellow{
+    background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.green{
+    background-color: green;
+}
